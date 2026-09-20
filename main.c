@@ -1,7 +1,6 @@
-#include <stdio.h>
-
+#include<stdio.h>
 int main()
 {
-    // @TODO: print a sentence you want.
-    printf("Hello, world!\n");
+    printf("1+1=6\n");
+    return 0;
 }
